@@ -1,4 +1,4 @@
-JBoss LogManager Protector
+#JBoss LogManager Protector
 
 Simple web application (servlet) to utilize the protection feature of JBoss
 LogManager.  Go to `http://<host>:<port>/log-protector` to see the current
